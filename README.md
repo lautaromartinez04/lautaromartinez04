@@ -51,6 +51,7 @@
     ![Windows](https://img.shields.io/badge/Windows-2b8cc4?style=for-the-badge&logo=Windows&logoColor=white)
     ![Nodejs](https://img.shields.io/badge/Node.js-026E00?style=for-the-badge&logo=nodedotjs&logoColor=white) 
     ![MongoDB](https://img.shields.io/badge/mongodb-009C71?style=for-the-badge&logo=mongodb&logoColor=white)
+    ![chartjs](https://img.shields.io/badge/Chart.JS-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
 </p>
 
 
