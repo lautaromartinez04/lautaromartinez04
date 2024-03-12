@@ -4,13 +4,13 @@
   <a href="https://www.google.com/maps/place/Argentina/@-36.4849876,-84.9504873,4z/data=!3m1!4b1!4m6!3m5!1s0x95bccaf5f5fdc667:0x3d2f77992af00fa8!8m2!3d-38.416097!4d-63.616672!16zL20vMGpnZA?entry=ttu"><img src="./Diseño sin título.jpg"></a>
 </p>
 
-## <picture><img src = "" width = 50px></picture> **About me**
+## **About me**
 
 - Electronic technician
 - Currently studying a higher technical degree in programming at UTN FRVM
 - My job is a computer technician in Don Emilio Villa Maria.
 - I’m currently open for an Intern or a new job opportunity
-<br>
+<br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
