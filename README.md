@@ -50,6 +50,7 @@
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
     ![Windows](https://img.shields.io/badge/Windows-2b8cc4?style=for-the-badge&logo=Windows&logoColor=white)
     ![Nodejs](https://img.shields.io/badge/Node.js-026E00?style=for-the-badge&logo=nodedotjs&logoColor=white) 
+    ![MongoDB](https://img.shields.io/badge/mongodb-009C71?style=for-the-badge&logo=mongodb&logoColor=white)
 </p>
 
 
