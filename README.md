@@ -52,7 +52,9 @@
     ![Nodejs](https://img.shields.io/badge/Node.js-026E00?style=for-the-badge&logo=nodedotjs&logoColor=white) 
     ![MongoDB](https://img.shields.io/badge/mongodb-009C71?style=for-the-badge&logo=mongodb&logoColor=white)
     ![chartjs](https://img.shields.io/badge/Chart.JS-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
-    ![chartjs](https://img.shields.io/badge/arduinoIDE_-006d70?style=for-the-badge&logo=arduino&logoColor=white)
+    ![arduino](https://img.shields.io/badge/arduinoIDE_-006d70?style=for-the-badge&logo=arduino&logoColor=white)
+    ![arduino](https://img.shields.io/badge/FastApi_-009485?style=for-the-badge&logo=fastapi&logoColor=white)
+    ![arduino](https://img.shields.io/badge/Uvicorn_-4051b5?style=for-the-badge&logo=uvicorn&logoColor=white)
 </p>
 
 
